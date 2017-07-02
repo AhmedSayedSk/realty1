@@ -1,0 +1,8 @@
+Ahmed notes:
+------------
+Nada, in create_realty page make:
+	- country select input
+	- with database we need to minimize the size in each coulmn (country, type of realty sell/rent)
+	- set pagination for realty view
+
+can't enter the create realty page until login

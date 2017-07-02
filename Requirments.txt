@@ -1,0 +1,14 @@
+1- Auth - Login/Register (User - Admin)-Rania - 2days +-2
+
+2- master controller to create, show ... new realty - (Resource Controller)-Nada- 2days +-2
+
+3-Search(price-el mnt2a - city -country- el msa7a-type(egar wla tmlek))-Nada-2days +-2
+
+4-comment system(ajax[])-Rania -3days +-2
+
+5-map(with arrow to specific appartment)-Ahmed - 7days +-2
+
+6-chat (previous work -options : emotions - font colors - typing.. )-Rania (just put it in project - no modifications-maybe enhancement) -5days +-2
+
+7-admin panel (block [soft-delete]-Approve posts before post or[deny and send message about why post denied]-Control posts comments)-Ahmed - open
+

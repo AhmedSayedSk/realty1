@@ -1,0 +1,11 @@
+1-to create controller : php artisan make:controller commentsController
+2-to create new DB open .env file , change dbname , change those lines
+DB_DATABASE=comments
+DB_USERNAME=root
+DB_PASSWORD=
+3-to migrate table :a-first create ur db manually
+					b-php artisan make:migration create_tableName_table --create="tableName"
+					c-php artisan migrate
+					d-php artisan db:seed
+Note: each table can be migrated alone (migrate only if it has the right coloums , else don't make it and migrate it before)
+4-to create model :php artisan make:model model_name
